@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
     private int picSwitchCount=0;
     private MediaPlayer mediaPlayer;
     private File[] musics;
-    //private AsyncPlayer asyncPlayer = new AsyncPlayer(null);
     private int songIndex = 0;
     private ArrayList<String> songArrayList; //播放声音列表
     private String musicPath;
